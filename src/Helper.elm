@@ -1,4 +1,4 @@
-module Helper exposing (..)
+module Main exposing (..)
 
 import Html exposing (Html, div, h1, li, text, ul)
 
@@ -110,10 +110,6 @@ type alias Computer =
     , brand : String
     , screenSize : String
     }
-
-
-
--- AQUÍ ESTÁ EL CAMBIO SOLICITADO:
 
 
 myLaptop : Computer
