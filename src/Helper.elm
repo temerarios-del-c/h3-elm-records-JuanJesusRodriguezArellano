@@ -1,4 +1,4 @@
-module Main exposing (..)
+module Helper exposing (..)
 
 import Html exposing (Html, div, h1, li, text, ul)
 
